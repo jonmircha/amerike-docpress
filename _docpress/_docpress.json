@@ -1,0 +1,111 @@
+{
+  "toc": {
+    "sections": [
+      {
+        "title": "Portada",
+        "source": "README.md",
+        "url": "index.html",
+        "slug": "index"
+      },
+      {
+        "title": "Getting Started",
+        "sections": [
+          {
+            "title": "Introduction",
+            "source": "docs/getting-started/introduction.md",
+            "url": "getting-started/introduction.html",
+            "slug": "getting-startedintroduction"
+          },
+          {
+            "title": "Downloads",
+            "source": "docs/getting-started/download.md",
+            "url": "getting-started/download.html",
+            "slug": "getting-starteddownload"
+          },
+          {
+            "title": "Contents",
+            "source": "docs/getting-started/contents.md",
+            "url": "getting-started/contents.html",
+            "slug": "getting-startedcontents"
+          }
+        ]
+      },
+      {
+        "title": "Components",
+        "sections": [
+          {
+            "title": "Alerts",
+            "source": "docs/components/alerts.md",
+            "url": "components/alerts.html",
+            "slug": "componentsalerts"
+          },
+          {
+            "title": "Accordion",
+            "source": "docs/components/accordion.md",
+            "url": "components/accordion.html",
+            "slug": "componentsaccordion"
+          },
+          {
+            "title": "Buttons",
+            "source": "docs/components/buttons.md",
+            "url": "components/buttons.html",
+            "slug": "componentsbuttons"
+          }
+        ]
+      }
+    ]
+  },
+  "index": {
+    "index.html": {
+      "source": "README.md",
+      "title": "Portada",
+      "pageTitle": "Portada",
+      "slug": "index"
+    },
+    "getting-started/introduction.html": {
+      "source": "docs/getting-started/introduction.md",
+      "title": "Introduction - Portada",
+      "pageTitle": "Introduction",
+      "slug": "getting-startedintroduction"
+    },
+    "getting-started/download.html": {
+      "source": "docs/getting-started/download.md",
+      "title": "Downloads - Portada",
+      "pageTitle": "Downloads",
+      "slug": "getting-starteddownload"
+    },
+    "getting-started/contents.html": {
+      "source": "docs/getting-started/contents.md",
+      "title": "Contents - Portada",
+      "pageTitle": "Contents",
+      "slug": "getting-startedcontents"
+    },
+    "components/alerts.html": {
+      "source": "docs/components/alerts.md",
+      "title": "Alerts - Portada",
+      "pageTitle": "Alerts",
+      "slug": "componentsalerts"
+    },
+    "components/accordion.html": {
+      "source": "docs/components/accordion.md",
+      "title": "Accordion - Portada",
+      "pageTitle": "Accordion",
+      "slug": "componentsaccordion"
+    },
+    "components/buttons.html": {
+      "source": "docs/components/buttons.md",
+      "title": "Buttons - Portada",
+      "pageTitle": "Buttons",
+      "slug": "componentsbuttons"
+    }
+  },
+  "sources": {
+    "README.md": "index.html",
+    "docs/getting-started/introduction.md": "getting-started/introduction.html",
+    "docs/getting-started/download.md": "getting-started/download.html",
+    "docs/getting-started/contents.md": "getting-started/contents.html",
+    "docs/components/alerts.md": "components/alerts.html",
+    "docs/components/accordion.md": "components/accordion.html",
+    "docs/components/buttons.md": "components/buttons.html"
+  }
+}
