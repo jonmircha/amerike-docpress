@@ -1,9 +1,0 @@
-- [Portada](../README.md)
-- Getting Started
-  - [Introduction](./getting-started/introduction.md)
-  - [Downloads](./getting-started/download.md)
-  - [Contents](./getting-started/contents.md)
-- Components
-  - [Alerts](./components/alerts.md)
-  - [Accordion](./components/accordion.md)
-  - [Buttons](./components/buttons.md)
